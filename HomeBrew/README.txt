@@ -1,3 +1,9 @@
+NOTE
+	
+	This file has not been tested YET because I already have HomeBrew installed by 3 today I will have tested it.
+	
+	This file is made for Python 2.7 and Ruby, all langs that OSX has preinstalled, so this is 100% made for Mac.
+
 Setup:
 	
 	First you must have access to the terminal, if you don’t have that…download hyper.app at http://hyper.is, its a 	terminal but a lot more pretty
