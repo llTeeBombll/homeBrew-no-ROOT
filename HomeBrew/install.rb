@@ -1,9 +1,4 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby
 
-# SET YOUR_HOME TO THE ABSOLUTE PATH OF YOUR HOME DIRECTORY
-# chmod +x install.rb
-# ./install.rb
-YOUR_HOME = '/Users/3077200'
 
 HOMEBREW_PREFIX = "#{YOUR_HOME}/usr/local"
 HOMEBREW_CACHE = "#{YOUR_HOME}/Library/Caches/Homebrew"
