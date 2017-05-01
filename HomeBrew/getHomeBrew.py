@@ -16,6 +16,7 @@ def create():
 	time.sleep(1)
 	l1.config(text = "moving to folder")
 	os.system("cd ~/Desktop/HomeBrew")
+	os.system("echo YOUR_HOME = '" + name + "' >> install.rb")
 	time.sleep(1)
 	l1.config(text = "chmoding the install")
 	os.system("chmod +x install.rb")
